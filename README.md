@@ -68,31 +68,39 @@ Este proyecto se gestiona mediante Hitos (Milestones) y Tareas (Issues) en GitHu
 Sigue estos pasos para levantar el proyecto en tu máquina local.
 
 #### 1. Clonar Repositorio
-
+```bash
 git clone [https://github.com/](https://github.com/)[tu-usuario]/[tu-repo].git
 cd [tu-repo]
+```
 
 #### 2. Crear y Activar Entorno Virtual
 (Recomendado: Python 3.10+)
-
+```bash
 python -m venv venv
 source venv/bin/activate  # En Arch Linux / macOS / Linux
 # .\venv\Scripts\activate  # En Windows
+```
 
 #### 3. Instalar Dependencias
-Todas las dependencias están listadas en requirements.txt.
-
+Todas las dependencias están listadas en `requirements.txt`.
+```bash
 pip install -r requirements.txt
-(Esto instalará PyTorch/YOLOv8, OpenCV, Scikit-learn y FastAPI).
+```
+*(Esto instalará PyTorch/YOLOv8, OpenCV, Scikit-learn y FastAPI).*
 
-(Próximamente) Ejecución del Proyecto
+---
+
+### (Próximamente) Ejecución del Proyecto
+
 #### 4. Ejecutar el Pipeline (Hito 3 y 4)
-
+```bash
 # (Instrucciones para ejecutar el análisis desde la terminal)
 python src/pipeline.py --input data/partido_futbol.mp4 --output data/estadisticas_partido.json
+```
 
 #### 5. Levantar la API (Hito 5)
-El servidor se lanza con uvicorn.
-
+El servidor se lanza con `uvicorn`.
+```bash
 uvicorn src.main:app --reload
-Una vez activo, podrás acceder a la documentación interactiva de la API en http://127.0.0.1:8000/docs.
+```
+* Una vez activo, podrás acceder a la documentación interactiva de la API en [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
