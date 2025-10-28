@@ -63,7 +63,7 @@ Este proyecto se gestiona mediante Hitos (Milestones) y Tareas (Issues) en GitHu
 
 ---
 
-## 🚀 Instalación y Uso
+## Instalación y Uso
 
 Sigue estos pasos para levantar el proyecto en tu máquina local.
 
