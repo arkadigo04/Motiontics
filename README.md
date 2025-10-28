@@ -7,14 +7,14 @@
 [![Framework](https://img.shields.io/badge/Framework-FastAPI-green.svg)](https://fastapi.tiangolo.com/)
 [![Deep Learning](https://img.shields.io/badge/Detección-YOLOv8-orange.svg)](https://docs.ultralytics.com/)
 
-Este repositorio contiene el código fuente del Proyecto Fin de Grado de [Tu Nombre Aquí], que implementa un pipeline completo de Visión por Computador para el **análisis táctico y estadístico de partidos de fútbol**.
+Este repositorio contiene el código fuente del Proyecto Fin de Grado de Arkaitz Diez Gonzalez, que implementa un pipeline completo de Visión por Computador para el **análisis táctico y estadístico de partidos de fútbol**.
 
 **Visita la Página Web del Proyecto (GitHub Pages) para ver los resultados:**
 ### [https://tu-usuario.github.io/tu-repo/](https://tu-usuario.github.io/tu-repo/)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 Este proyecto integra varias tecnologías punteras en el campo de la IA y el análisis deportivo:
 
@@ -27,7 +27,7 @@ Este proyecto integra varias tecnologías punteras en el campo de la IA y el an�
 
 ---
 
-## 🧠 Arquitectura del Pipeline
+## Arquitectura del Pipeline
 
 El sistema transforma un vídeo de un partido en un JSON con estadísticas y patrones tácticos detectados.
 
@@ -50,7 +50,7 @@ El sistema transforma un vídeo de un partido en un JSON con estadísticas y pat
 
 ---
 
-## 🗺️ Hoja de Ruta (Milestones)
+## Hoja de Ruta (Milestones)
 
 Este proyecto se gestiona mediante Hitos (Milestones) y Tareas (Issues) en GitHub.
 
