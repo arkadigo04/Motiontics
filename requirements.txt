@@ -1,0 +1,11 @@
+# ---- Framework de IA y Visión ----
+ultralytics
+opencv-python-headless
+numpy
+
+# ---- Análisis / Clustering ----
+scikit-learn
+
+# ---- API y Servidor ----
+fastapi
+uvicorn[standard]
