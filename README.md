@@ -10,7 +10,7 @@
 Este repositorio contiene el código fuente del Proyecto Fin de Grado de Arkaitz Diez Gonzalez, que implementa un pipeline completo de Visión por Computador para el **análisis táctico y estadístico de partidos de fútbol**.
 
 **Visita la Página Web del Proyecto (GitHub Pages) para ver los resultados:**
-### [https://tu-usuario.github.io/tu-repo/](https://tu-usuario.github.io/tu-repo/)
+### [https://github.com/arkadigo04/Motiontics]
 
 ---
 
@@ -69,8 +69,8 @@ Sigue estos pasos para levantar el proyecto en tu máquina local.
 
 #### 1. Clonar Repositorio
 ```bash
-git clone [https://github.com/](https://github.com/)[tu-usuario]/[tu-repo].git
-cd [tu-repo]
+git clone [https://github.com/](https://github.com/)[arkadigo04]/[Motiontics].git
+cd [Motiontics]
 ```
 
 #### 2. Crear y Activar Entorno Virtual
