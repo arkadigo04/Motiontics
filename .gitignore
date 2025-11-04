@@ -78,6 +78,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Ignorar archivos de media en la carpeta data
+data/*.mp4
+data/*.avi
+
 # IPython
 profile_default/
 ipython_config.py
