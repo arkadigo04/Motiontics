@@ -1,4 +1,4 @@
-# [MontionTics]
+# MontionTics
 
 > TFG: Analiza partidos de fútbol para extraer estadísticas, detectar jugadas ofensivas/defensivas (YOLOv8, ByteTrack) y agrupar patrones tácticos (K-Means).
 
@@ -10,7 +10,7 @@
 Este repositorio contiene el código fuente del Proyecto Fin de Grado de Arkaitz Diez Gonzalez, que implementa un pipeline completo de Visión por Computador para el **análisis táctico y estadístico de partidos de fútbol**.
 
 **Visita la Página Web del Proyecto (GitHub Pages) para ver los resultados:**
-### [https://github.com/arkadigo04/Motiontics]
+### https://github.com/arkadigo04/Motiontics
 
 ---
 
@@ -69,8 +69,8 @@ Sigue estos pasos para levantar el proyecto en tu máquina local.
 
 #### 1. Clonar Repositorio
 ```bash
-git clone [https://github.com/](https://github.com/)[arkadigo04]/[Motiontics].git
-cd [Motiontics]
+git clone https://github.com/(https://github.com/)arkadigo04/Motiontics.git
+cd Motiontics
 ```
 
 #### 2. Crear y Activar Entorno Virtual
@@ -103,4 +103,4 @@ El servidor se lanza con `uvicorn`.
 ```bash
 uvicorn src.main:app --reload
 ```
-* Una vez activo, podrás acceder a la documentación interactiva de la API en [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
+* Una vez activo, podrás acceder a la documentación interactiva de la API en http://127.0.0.1:8000/docs(http://127.0.0.1:8000/docs).
