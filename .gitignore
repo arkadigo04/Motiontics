@@ -211,3 +211,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignorar vídeos de salida
+data/output_*.mp4
+
+# Ignorar vídeos de salida
+data/output_*.mp4
