@@ -81,6 +81,8 @@ target/
 # Ignorar archivos de media en la carpeta data
 data/*.mp4
 data/*.avi
+# Ignorar vídeos de resultado en la carpeta data/
+data/output_*.mp4
 
 # IPython
 profile_default/
