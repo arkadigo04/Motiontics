@@ -1,0 +1,16 @@
+# Configuración del Tracker
+tracker_type: bytetrack
+
+# Cajas con score > 0.5 se consideran fiables
+track_high_thresh: 0.5
+
+# Cajas con score < 0.5 pero > 0.1 se guardan temporalmente
+track_low_thresh: 0.1
+
+# pero tiene un score > 0.6, se crea un nuevo ID de track.
+new_track_thresh: 0.6
+
+#numero de frames
+track_buffer: 30
+
+match_thresh: 0.8
