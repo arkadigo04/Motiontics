@@ -18,7 +18,7 @@ Este repositorio contiene el código fuente del Proyecto Fin de Grado de Arkaitz
 
 Este proyecto integra varias tecnologías punteras en el campo de la IA y el análisis deportivo:
 
-* **Lenguaje:** Python 3.10+
+* **Lenguaje:** Python 3.11.4
 * **Detección de Objetos:** **YOLOv8** (de Ultralytics). Es el "ojo" del sistema. Detecta jugadores, balón, árbitros y porterías en cada frame.
 * **Tracking de Objetos:** **ByteTrack**. El algoritmo que sigue a cada jugador y al balón a lo largo del tiempo, asignando un ID único a cada uno (una trayectoria).
 * **Clustering (Análisis):** **K-Means** (de Scikit-learn). Es el "cerebro táctico". Agrupa las trayectorias de los jugadores en patrones comunes para identificar **jugadas ofensivas (ej. contraataques), defensivas (ej. bloque bajo) o formaciones**.
