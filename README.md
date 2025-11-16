@@ -3,7 +3,7 @@
 > TFG: Analiza partidos de fútbol para extraer estadísticas, detectar jugadas ofensivas/defensivas (YOLOv8, ByteTrack) y agrupar patrones tácticos (K-Means).
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.11.4-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/Framework-FastAPI-green.svg)](https://fastapi.tiangolo.com/)
 [![Deep Learning](https://img.shields.io/badge/Detección-YOLOv8-orange.svg)](https://docs.ultralytics.com/)
 
